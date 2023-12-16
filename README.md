@@ -1,60 +1,13 @@
 # creadted a webage using HTML along with CSS
 worked on implementing a story
 as a student i needed to make some changes to the HTML file where <div> were not used and tags like header, section, and articles were used instead
-## Acceptance Criteria
-*GIVEN a webpage meets accessibility standards
 
-
-
-
-*WHEN I view the source code
-
-
+## What technology I used
+Used many technology factors such as HTML and CSS and GIT.
+what manly was done in this challenge was to make all the <div> properties be replaced with section, article, and header
 
 
 
 
 
 
-
-*THEN I find semantic HTML elements
-
-
-
-
-*WHEN I view the structure of the HTML elements
-
-
-
-
-*THEN I find that the elements follow a logical structure independent of styling and *positioning
-
-
-
-
-*WHEN I view the image elements
-
-
-
-
-*THEN I find accessible alt attributes
-
-
-
-
-*WHEN I view the heading attributes
-
-
-
-
-*THEN they fall in sequential order
-
-
-
-
-*WHEN I view the title element
-
-
-
-
-*THEN I find a concise, descriptive title
